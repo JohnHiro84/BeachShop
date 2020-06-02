@@ -24,10 +24,10 @@ The other components that use the product information will also only fetch all t
 
 ## Future Directions
 
-Integrating a system that securely allows a user to save a credit card on file.
+- Integrating a system that securely allows a user to save a credit card on file.
 
-To adjust the product's detail page to show multiple images of a product and allowing a user to view the product in different colors and sizes.
+- To adjust the product's detail page to show multiple images of a product and allowing a user to view the product in different colors and sizes.
 
-To integrate an algorithim to display products based on a user's previous website activity.
+- To integrate an algorithim to display products based on a user's previous website activity.
 
  	
