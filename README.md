@@ -1,6 +1,14 @@
 # BeachShop
 
 
+![sample image](1cropped.png)
+![sample image](2cropped.png)
+![sample image](3cropped.png)
+![sample image](4cropped.png)
+![sample image](7cropped.png)
+
+[Video Demonstration](https://m.youtube.com/watch?v=YGa59yo1Z0k)
+
 
 ## What the app does
 
