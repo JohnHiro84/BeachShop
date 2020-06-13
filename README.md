@@ -1,11 +1,9 @@
 # BeachShop
 
-
-![sample image](cropped1.png)
 ![sample image](cropped2.png)
 ![sample image](cropped3.png)
 ![sample image](cropped4.png)
-![sample image](cropped7.png)
+![sample image](cropped5.png)
 
 [Video Demonstration](https://m.youtube.com/watch?v=YGa59yo1Z0k)
 
