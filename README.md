@@ -20,7 +20,7 @@ The Beach Shop was inspired by Amazon. It was made with React, Rails and jBuilde
 
 One of the first challanges I came across with the Beach Shop was in setting up the search bar and the search results. I wanted to ensure that the search bar was always present, yet I wanted the bottom half of the page to either show the search results or whatever url the user is currently viewing. 
 
-Looking back on it the solution was alot simpler than I first perceived it to be. Instead of having the search results to be based on state passed from the SearchBar component, I had the search bar place the search term into the redux store and push the history to go to the search results. Once the Search Results Container is rendered it quickly selects the products by search term. The search results are in a switch statement as well as the  product details, orders, cart and profile routes and so will only render if the url is directed there.
+Looking back on it, the solution was simpler than I thought. Instead of having the search results to be based on state passed from the SearchBar component, I had the search bar place the search term into the redux store and push the history to go to the search results. Once the Search Results Container is rendered it quickly selects the products by search term. The search results are in a switch statement as well as the  product details, orders, cart and profile routes and so will only render if the url is directed there.
 
 ## Reducing database calls
 
