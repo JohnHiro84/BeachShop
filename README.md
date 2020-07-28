@@ -10,7 +10,7 @@
 
 ## About the App
 
-The Beach Shop is an online website where users can browse different beach products one might need for a day at the beach.
+The Beach Shop is an online website where users can browse different beach products one might need for an outing at the beach.
 
 Users can add or remove products from thier cart. They can search for specific products or click on general product categories and sort the results by rating or price. Once a user has finished shopping, they can proceed to checkout and generate an order. Users can leave reviews on products they purchased and leave a rating from one to five stars.
 
