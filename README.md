@@ -26,7 +26,7 @@ Looking back on it, the solution was simpler than I thought. Instead of having t
 
 I tried to minimize database calls until they were absolutely necessary. Instead of fetching a particular product's information and doing another fetch for it's reviews I used jBuilder to pull down the reviews in the single product fetch.
 
-The other components that use the product information will also only fetch all the products if they are not found in the store  making for a faster website experience.
+Other components that use the product information will also only fetch all the products if they are not found in the store  making for a faster website experience.
 
 ## Future Directions
 
